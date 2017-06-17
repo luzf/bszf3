@@ -1,5 +1,5 @@
 {
-  "name": "luzf/zf3",
+  "name": "luzf/bszf3",
   "require": {
     "php": ">=5.6",
     "zendframework/zendframework": "^3",
